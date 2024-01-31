@@ -1,4 +1,4 @@
-## Hi, I'm Rafael Zucarelli
+## Hi, I'm Rafael Zucarelli, a student of Systems Analysis and Development. 
 ### Actually Im working with: 
 Javascript
 
