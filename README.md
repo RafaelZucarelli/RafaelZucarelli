@@ -1,9 +1,9 @@
 ## Hi, I'm Rafael Zucarelli 👋
-### Full Stack Developer · Bachelor in Systems Analysis and Development
+### Full Stack Developer · Bachelor in Information Systems
 
 - 📍 Brazil
 - 🔍 Open to Full Stack opportunities
-- 🎓 Graduated in ADS
+- 🎓 Graduated in Information Systems
 
 ---
 
