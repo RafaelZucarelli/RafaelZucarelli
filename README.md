@@ -24,4 +24,4 @@ I enjoy building web applications end-to-end, always aiming for clean code and g
 
 ---
 
-📫 **Reach me:** [LinkedIn]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/rafael-alves-zucarelli-4aab40207/) · [Email](mailto:zucarelli83@gmail.com)
+📫 **Reach me:** [LinkedIn] · (https://www.linkedin.com/in/rafael-alves-zucarelli-4aab40207/) · [Email](mailto:zucarelli83@gmail.com)
